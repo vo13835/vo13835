@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vlad Ostrovskyi 
 - 👀 I’m interested in AI.
-- 🌱 I’m currently learning promtengeniring.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning promt-ingeneering.
+- 💞️ I’m looking to collaborate on.
 - 📫 How to reach me tel.+41796575057
 
 <!---
